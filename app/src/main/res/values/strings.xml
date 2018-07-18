@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">材料设计</string>
+    <string name="lorem_ipsum">一大堆的东西</string>
+    <string name="recyclerview_fab_example">RecyclerView FAB example</string>
+    <string name="floating_action_menu">悬浮菜单</string>
+    <string name="lorem_ipsum_large">很多很多很多字</string>
+
+</resources>
