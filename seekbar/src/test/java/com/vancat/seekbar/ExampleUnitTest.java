@@ -1,4 +1,4 @@
-package com.vancat.dialog;
+package com.vancat.seekbar;
 
 import org.junit.Test;
 

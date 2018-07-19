@@ -1,1 +1,1 @@
-include ':app', ':floatbutton', ':materialedittext', ':dialog'
+include ':app', ':floatbutton', ':materialedittext', ':seekbar'

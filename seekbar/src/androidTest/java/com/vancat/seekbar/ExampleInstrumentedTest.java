@@ -1,4 +1,4 @@
-package com.vancat.dialog;
+package com.vancat.seekbar;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.vancat.dialog.test", appContext.getPackageName());
+        assertEquals("com.vancat.seekbar.test", appContext.getPackageName());
     }
 }
